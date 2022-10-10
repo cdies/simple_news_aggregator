@@ -1,6 +1,6 @@
 https://habr.com/ru/post/689520/
 
-# Свой аггрегатор новостей на python, телеграмм + RSS + новостные сайты (telethon, fiddler, scrapy)
+# Свой агрегатор новостей на python. Телеграм + RSS + новостные сайты (telethon, feedparser, scrapy)
 
 ### Простой аггрегатор новостей.
 
