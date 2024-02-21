@@ -11,7 +11,7 @@ loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
 # Канал куда скидываем новости, например @habr_agg, сюда введи свой канал
-channel_habr_agg = 'https://t.me/habr_agg'
+channel_habr_agg = 'https://t.me/jamie_oliver_15'
 
 # Очередь из уже опубликованных постов, чтобы их не дублировать
 posted_q = deque(maxlen=40)

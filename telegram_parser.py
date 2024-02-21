@@ -5,8 +5,8 @@ def telegram_parser(send_message_func=None, loop=None):
     '''Телеграм парсер'''
 
     # Параметры из my.telegram.org
-    api_id = <Твой api_id>
-    api_hash = <Твой api_hash>
+    api_id = <20841061>
+    api_hash = <dafc4aaf8ff7e33170c3991241f9e2fd>
 
     # Канал источник новостей @prime1
     channel_source = 'https://t.me/prime1'
